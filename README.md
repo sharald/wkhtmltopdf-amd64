@@ -28,7 +28,7 @@ The binary will then be located at:
 
 Also a symlink will be created in your configured bin/ folder, for example:
 
-    vendor/bin/wkhtmltopdf-i386
+    vendor/bin/wkhtmltopdf-amd64
 
 ### Usage
 
